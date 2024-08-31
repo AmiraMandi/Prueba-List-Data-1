@@ -14,7 +14,7 @@
 
 #### Codespaces/Gitpod
 
-- Abrir el repositorio utilizando Codespaces o Gitpod `https://github.com/jseiglie/prueba-Tec`
+- Abrir el repositorio utilizando Codespaces o Gitpod `https://github.com/AmiraMandi/Prueba-List-Data-1`
 
 - Instalar las dependencias con `npm install`
 
