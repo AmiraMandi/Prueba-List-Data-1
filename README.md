@@ -6,17 +6,11 @@
 #### Local
 - Descargar mediante git clone el repositorio 
 
-`git clone https://github.com/jseiglie/prueba-Tec`
+`git clone https://github.com/AmiraMandi/Prueba-List-Data-1`
 
 
 - instalar las dependencias con `npm install`
 
-
-#### Codespaces/Gitpod
-
-- Abrir el repositorio utilizando Codespaces o Gitpod `https://github.com/AmiraMandi/Prueba-List-Data-1`
-
-- Instalar las dependencias con `npm install`
 
 
 ### Visualización del proyecto
