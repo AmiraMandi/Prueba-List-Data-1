@@ -4,7 +4,7 @@ const useLoader = (resourceType, id = "", additionalParams = {}) => {
   const [data, setData] = useState();
   const [error, setError] = useState();
 
-  // Function to construct API endpoint based on resource type and id
+  
   const buildEndpoint = (resourceType, id) => {
     const endpoints = {
       category: "/api/v1/recommender/category",

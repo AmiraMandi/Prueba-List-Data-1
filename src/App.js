@@ -1,4 +1,3 @@
-// App.js
 import "./App.css";
 import { useState, useMemo } from "react";
 import useLoader from "./hooks/useLoader";
@@ -55,7 +54,7 @@ function App() {
 
   const handleProductClick = (el) => {
     setSelectedProduct(el);
-    toggleModalInfo(); // Use toggleModalInfo to show/hide the modal
+    toggleModalInfo(); 
   };
 
   return (
